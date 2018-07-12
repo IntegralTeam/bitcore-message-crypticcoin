@@ -23,10 +23,10 @@
     "url": "https://git.sfxdx.ru/cryptic/bitcore-message-crypticcoin.git"
   },
   "dependencies": {
-    "bitcore-lib-crypticcoin": "git+https://git.sfxdx.ru/cryptic/bitcore-lib-crypticcoin.git"
+    "bitcore-lib-crypticcoin": "git+ssh://git@git.sfxdx.ru:cryptic/bitcore-lib-crypticcoin.git"
   },
   "devDependencies": {
-    "bitcore-build-crypticcoin": "git+https://git.sfxdx.ru/cryptic/bitcore-build-crypticcoin.git",
+    "bitcore-build-crypticcoin": "git+ssh://git@git.sfxdx.ru:cryptic/bitcore-build-crypticcoin.git",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
