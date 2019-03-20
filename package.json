@@ -23,7 +23,7 @@
     "url": "https://github.com/crypticcoinvip/bitcore-message-crypticcoin.git"
   },
   "dependencies": {
-    "bitcore-lib-crypticcoin": "https://github.com/crypticcoinvip/bitcore-lib-crypticcoin.git#sapling"
+    "bitcore-lib-crypticcoin": "https://github.com/crypticcoinvip/bitcore-lib-crypticcoin.git"
   },
   "devDependencies": {
     "bitcore-build-crypticcoin": "https://github.com/crypticcoinvip/bitcore-build-crypticcoin.git",
